@@ -6,9 +6,9 @@ Gem::Specification.new do |s|
   s.name        = "rails_kindeditor"
   s.version     = RailsKindeditor::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = "Macrow"
-  s.email       = "Macrow_wh@163.com"
-  s.homepage    = "http://github.com/Macrow"
+  s.authors     = "simple_naive"
+  s.email       = "hh@fuck.com"
+  s.homepage    = "http://github.com/dogsimple.com"
   s.summary     = "Kindeditor for Ruby on Rails"
   s.description = "rails_kindeditor will helps your rails app integrate with kindeditor, including images and files uploading."
   s.license = 'MIT'
